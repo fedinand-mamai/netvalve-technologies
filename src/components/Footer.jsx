@@ -33,7 +33,7 @@ export default function Footer() {
         <div>
           <h3 className="text-white font-semibold mb-3">Contact</h3>
           <p className="text-gray-400">
-            Email: info@netvalve.com <br />
+            Email: netvalvetechnologies.co.ke <br />
             Phone: +254 797603096 <br />
           </p>
         </div>
