@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,40 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# NetValve Technologies
+
+A modern enterprise landing page built with Next.js and Tailwind CSS.
+
+## Overview
+
+NetValve Technologies is a multi-service tech company website showcasing:
+
+- Network Infrastructure Services
+- Cloud Solutions
+- Cybersecurity Services
+- Software Development
+- Subsidiary Companies
+
+## 🛠️ Tech Stack
+
+- Next.js (App Router)
+- Tailwind CSS
+- Framer Motion
+- React Icons
+
+## Features
+
+- Responsive modern UI
+- Animated hero section
+- Service cards with hover effects
+- Subsidiary company structure
+- Glassmorphism navbar
+- Dark themed enterprise design
+
+## Installation
+
+```bash
+npm install
+npm run dev
+>>>>>>> 0de552776eefeeb0c5a7da171acd458edbc808e1
